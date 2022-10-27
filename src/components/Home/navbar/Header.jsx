@@ -8,7 +8,8 @@ const Header = () => {
   return (
     <header className="header">
       <a className='logo' href="/">
-      <img src="./src/assets/img/Postman-logo-orange-2021_1155x.png" alt="Logo de la pagina" />
+      <div className='backImg'>
+      </div>
       </a>
       <nav className='header__nav'>
         <ul className="nav-list">

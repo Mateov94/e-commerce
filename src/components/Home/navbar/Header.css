@@ -21,6 +21,13 @@
   cursor: pointer;
   margin-right: auto;
 }
+.backImg{
+  background-image: url('./src/assets/img/Postman-logo-orange-2021_1155x.png');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 40px;
+}
 .header .logo img {
   transition: all 0.3s;
 }
